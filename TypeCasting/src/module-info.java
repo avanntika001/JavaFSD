@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author avant
+ *
+ */
+module TypeCasting {
+}
